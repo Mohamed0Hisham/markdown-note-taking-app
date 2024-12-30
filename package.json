@@ -1,0 +1,12 @@
+{
+  "name": "markdown-note-taking-app",
+  "version": "1.0.0",
+  "description": "5. Markdown Note-taking App\r    Difficulty: Moderate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
